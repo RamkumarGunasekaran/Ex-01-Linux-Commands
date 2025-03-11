@@ -225,6 +225,7 @@ Syntax: cal
 Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
+![421252413-aeb16faf-4aa8-4988-b7a2-b1f1d9b933fa](https://github.com/user-attachments/assets/0c64d8f1-ffd8-4b52-a76c-eab8f494dbc3)
 
 
 
@@ -233,6 +234,7 @@ Syntax: clear
 The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" 
+![421252448-939fd86f-50a7-45a7-9cf9-025c58c7e86c](https://github.com/user-attachments/assets/0dd1f6d9-7168-4e42-a729-1b089aa7a342)
 
  
 ### 29)	df Command
@@ -240,6 +242,8 @@ Syntax: mail -s "Subject"
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+![421252477-11c02ecd-9aca-498c-be46-76229dd8d2d2](https://github.com/user-attachments/assets/fb9548d8-ab4e-47cc-9fb9-7236f520f67d)
+
 
 
 
