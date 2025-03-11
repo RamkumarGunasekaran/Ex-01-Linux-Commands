@@ -208,6 +208,7 @@ Syntax: gzip
 The sort command is used to sort files in alphabetical order.
 
 Syntax:sort 
+
 ![421252307-0de974e1-01b8-4df6-a916-bce6aba7d36c](https://github.com/user-attachments/assets/bbf18693-45f2-4011-aa4a-b6eb4bfc175c)
 
  
@@ -239,7 +240,8 @@ Syntax: mail -s "Subject"
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
-![Uploading 421252477-11c02ecd-9aca-498c-be46-76229dd8d2d2.png…]()
+
+
 
 ### 30)	find Command
 
