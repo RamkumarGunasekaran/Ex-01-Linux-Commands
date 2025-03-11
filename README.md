@@ -242,6 +242,7 @@ Syntax: mail -s "Subject"
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
 ![421252477-11c02ecd-9aca-498c-be46-76229dd8d2d2](https://github.com/user-attachments/assets/fb9548d8-ab4e-47cc-9fb9-7236f520f67d)
 
 
