@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+## Reg No:212223220084
+## NAME: RAMKUMAR G
 
 ## Aim:
 
