@@ -119,6 +119,7 @@ Syntax: head
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail 
+
 ![421251249-3ff9e86b-551a-4a7a-b52e-7194190b9e86](https://github.com/user-attachments/assets/cfda18b7-5165-4e34-8928-2886507b1a22)
 
  
