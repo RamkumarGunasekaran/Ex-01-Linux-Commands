@@ -54,6 +54,7 @@ Syntax: rmdir
 The cd command is used to change the current directory.
 
 Syntax: cd
+
 ![421250690-298b5c15-fc7f-438e-8048-abfcaefc9fec](https://github.com/user-attachments/assets/9f8a0dd6-4211-44e1-acfa-ed143ae2a811)
 
 
